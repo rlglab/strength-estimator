@@ -1,0 +1,14 @@
+# execute and library file
+build/
+__pycache__
+
+# configuration file
+#*.cfg
+
+# training folder
+go_19x19_*/
+
+# others
+.sgf
+.txt
+.vscode

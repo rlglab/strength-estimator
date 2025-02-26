@@ -1,0 +1,1 @@
+../minizero/scripts/build.sh
